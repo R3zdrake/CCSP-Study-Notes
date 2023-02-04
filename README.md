@@ -2,8 +2,6 @@
 
 ## Notes
 
-[CCSP Reddit Forum Discussion](https://www.reddit.com/r/CCSP/) 
-
 [CCSP ALUKOS Notes](https://ccsp.alukos.com/)
 
 [CCSP cheatsheets 04-2021.pdf](https://github.com/amar3181/awesome-CISSP/files/7920302/CCSP.cheatsheets.04-2021.pdf)
@@ -12,7 +10,9 @@
 
 [CIRRUS-8000-ft-of-CCSP-Course.pdf](https://github.com/amar3181/awesome-CISSP/files/7920300/CIRRUS-8000-ft-of-CCSP-Course.pdf)
 
+## Forum/Groups
 
+[CCSP Reddit Forum Discussion](https://www.reddit.com/r/CCSP/) 
 
 ## Linkedin Learning Videos - CCSP Cert Prep by Mike Chapple
 
@@ -30,6 +30,8 @@
 
 [CCSP Cert Prep: 6 Legal, Risk, and Compliance](https://www.linkedin.com/learning-login/share?account=2112673&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fccsp-cert-prep-6-legal-risk-and-compliance-17457062%3Ftrk%3Dshare_ent_url%26shareId%3DPbrQauMVQl688zRqQivRrQ%253D%253D)
 
+## Youtube
+[How to Prepare for CCSP exam with step by step resources (Must Review Before reading any stuff)](https://www.youtube.com/watch?v=dCPRZoKntX0&t=611s)
 
 
 
