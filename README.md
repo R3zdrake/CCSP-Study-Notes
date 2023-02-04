@@ -2,6 +2,10 @@
 
 ## Notes
 
+[CCSP Reddit Forum Discussion](https://www.reddit.com/r/CCSP/) 
+
+[CCSP ALUKOS Notes](https://ccsp.alukos.com/)
+
 [CCSP cheatsheets 04-2021.pdf](https://github.com/amar3181/awesome-CISSP/files/7920302/CCSP.cheatsheets.04-2021.pdf)
 
 [CCSP_Spaces_Notes.pdf](https://github.com/amar3181/awesome-CISSP/files/7920303/CCSP_Spaces_Notes.pdf)
@@ -25,3 +29,14 @@
 [CCSP Cert Prep: 5 Cloud Security Operations](https://www.linkedin.com/learning-login/share?account=2112673&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fccsp-cert-prep-5-cloud-security-operations-14868453%3Ftrk%3Dshare_ent_url%26shareId%3DXAulQu14QyuI7cg2vnh70A%253D%253D)
 
 [CCSP Cert Prep: 6 Legal, Risk, and Compliance](https://www.linkedin.com/learning-login/share?account=2112673&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fccsp-cert-prep-6-legal-risk-and-compliance-17457062%3Ftrk%3Dshare_ent_url%26shareId%3DPbrQauMVQl688zRqQivRrQ%253D%253D)
+
+
+
+
+## CCSP Review and details
+
+[https://medium.com/@rajesh.hyd/ccsp-exam-review-and-learning-path-certified-cloud-security-professional-from-isc2-8204bbb4853b]
+
+[https://stanislas.io/2018/07/12/preparation-guide-for-isc2-certified-cloud-security-professional-ccsp-certification/]
+
+
