@@ -33,12 +33,81 @@
 ## Youtube
 [How to Prepare for CCSP exam with step by step resources (Must Review Before reading any stuff)](https://www.youtube.com/watch?v=dCPRZoKntX0&t=611s)
 
+[CCSP DOMAIN 1 Cloud Concepts, Architecture and Design](https://www.youtube.com/watch?v=OzzqfFFNxc0&t=437s)
+
+[CCSP DOMAIN 2 Cloud Data Security](https://www.youtube.com/watch?v=ey-z_Igs0S4&t=96s)
+
+[CCSP DOMAIN 3 Cloud Platform and Infrastructure Security Exam Review](https://www.youtube.com/watch?v=snMwTwryJrs&t=326s)
+
+[CCSP DOMAIN 4 Cloud Application Security review](https://www.youtube.com/watch?v=GuXqqn72iCs&t=8s)
+
+[CCSP DOMAIN 5 Cloud Security Operations](https://www.youtube.com/watch?v=YYP0sbzzb-4&t=35s)
+
+[CCSP DOMAIN 6 Legal, Risk and Compliance](https://youtu.be/neo11lgbWak)
+
+[Data Privacy Topic](https://www.youtube.com/watch?v=BjVAUL5oWvo&t=567s)
+
+[How to read question and Threat Modeling](https://www.youtube.com/watch?v=HWg2geVJuvs&t=24s)
+
+[How to Understand the Question Scoping if CCSP is your first ISC2 Exam Video by Larry](https://www.youtube.com/watch?v=HWg2geVJuvs&t=24s)
+
+[CCSP Questions Part 1](https://www.youtube.com/watch?v=s9Dz823BU3E&list=PL0hT6hgexlYy_gE_y09ORyupgfVOHM_TN&index=9&t=27s)
+
+[CCSP Questions Part 2](https://www.youtube.com/watch?v=K4SRNwQQ2-Q&list=PL0hT6hgexlYy_gE_y09ORyupgfVOHM_TN&index=10)
+
+[CCSP Questions Part 3](https://www.youtube.com/watch?v=OC9UMGnWR5M&list=PL0hT6hgexlYy_gE_y09ORyupgfVOHM_TN&index=11)
+
+[CCSP Questions Part 4](https://www.youtube.com/watch?v=IDM8qQKPrYs&list=PL0hT6hgexlYy_gE_y09ORyupgfVOHM_TN&index=12)
+
+[CCSP Questions Part 5](https://www.youtube.com/watch?v=rtJ52IvWBew&list=PL0hT6hgexlYy_gE_y09ORyupgfVOHM_TN&index=13)
+
+[CCSP Question Part 6](https://studio.youtube.com/video/odv7L2vBmrU/edit)
+
+[CCSP Questions Part 7](https://www.youtube.com/watch?v=wLDimwW-OkA)
+
+[CCSP Questions Part 8](https://youtu.be/wCReEtmopFs)
+
+[CCSP Question Part 9](https://youtu.be/SEdp6Godq6g)
+
+[CCSP Question Part 10](https://youtu.be/O-_hg-fC9Rg)
+
+[CCSP Question Part 11](https://youtu.be/j2E7h5Vw-fg)
+
+[CCSP Questions Part 12](https://www.youtube.com/watch?v=h4m8JUl2Yo0&t=3s)
+
+[CCSP Questions Part 13](https://www.youtube.com/watch?v=JwScbAHU4NY&t=743s)
+
+[BCP Questions](https://www.youtube.com/watch?v=DW3rmlNzH_c&t=19s)
+
+[Cryptography Questions](https://www.youtube.com/watch?v=2TPe8R8BgsU)
+
+[IPSEC Questions](https://www.youtube.com/watch?v=6cpJrbR1QZ8&t=16s)
+
+[SDLC Questions](https://www.youtube.com/watch?v=GT306d4jJpY)
+
+[Patch Managment Questions](https://www.youtube.com/watch?v=A4jjjQhI81s&list=PL0hT6hgexlYy5kK_7yEbP7bmEVQq4gIr2&index=6)
+
+[Change Managment Process](https://www.youtube.com/watch?v=UVY_w27yTZw&list=PLjSPHjZkfqNUXNaYoniLxmnMOLivuo7e8&index=15&t=39s)  
+
+[Data Privacy Questions](https://www.youtube.com/watch?v=3X1ZyfZh7Sc&list=PLjSPHjZkfqNUXNaYoniLxmnMOLivuo7e8&index=13)
+
+[SDN](https://www.youtube.com/watch?v=F_ZUmmJRxFI&list=PLjSPHjZkfqNUXNaYoniLxmnMOLivuo7e8&index=24)
+
+[CCSP Practice Questions for 2023 | CCSP Exam Preparation | CCSP Exam Practice Q&A](https://www.youtube.com/watch?v=C_VDqEKIVF8&t=1894s)
+
+[CCSP Exam Preparation | CCSP Questions Practice | InfosecTrain](https://www.youtube.com/watch?v=3AO1P0YowHI)
+
+[Think like a manager - Gwen Bettwy](https://www.youtube.com/watch?v=8LtRKKtdP3I&t=18s)
+
+
 
 
 ## CCSP Review and details
 
-[https://medium.com/@rajesh.hyd/ccsp-exam-review-and-learning-path-certified-cloud-security-professional-from-isc2-8204bbb4853b]
+https://medium.com/@rajesh.hyd/ccsp-exam-review-and-learning-path-certified-cloud-security-professional-from-isc2-8204bbb4853b
 
-[https://stanislas.io/2018/07/12/preparation-guide-for-isc2-certified-cloud-security-professional-ccsp-certification/]
+https://stanislas.io/2018/07/12/preparation-guide-for-isc2-certified-cloud-security-professional-ccsp-certification/
+
+
 
 
