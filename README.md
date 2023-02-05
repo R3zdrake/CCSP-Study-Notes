@@ -12,6 +12,13 @@
 
 [CCSP Cheat Sheet to Use in 2023 and Beyond Exam Tricks](https://www.knowledgehut.com/blog/security/ccsp-cheat-sheet)
 
+[Practice Test - ISC.practicetest.CCSP.v2021](https://www.gratisexam.com/vce-to-pdf/isc/ccsp/ISC.practicetest.CCSP.v2021-04-05.by.edward.307q.pdf/)
+
+[Practice Test - ISC.braindumps.CCSP.v2020-10-01](https://www.gratisexam.com/vce-to-pdf/isc/ccsp/ISC.braindumps.CCSP.v2020-10-01.by.harper.265q.pdf/)
+
+[Practice Test - ISC.Actualtests.CCSP.v2019](https://www.gratisexam.com/vce-to-pdf/isc/ccsp/ISC.Actualtests.CCSP.v2019-04-14.by.Don.258q.pdf/)
+
+
 ## Forum/Groups
 
 [CCSP Reddit Forum Discussion](https://www.reddit.com/r/CCSP/) 
