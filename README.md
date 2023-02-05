@@ -10,6 +10,8 @@
 
 [CIRRUS-8000-ft-of-CCSP-Course.pdf](https://github.com/amar3181/awesome-CISSP/files/7920300/CIRRUS-8000-ft-of-CCSP-Course.pdf)
 
+[CCSP-Mindmap](https://cycubix.com/wp-content/uploads/2019/11/Cycubix-CCSP-Mindmap-Aug2019.pdf)
+
 [CCSP Cheat Sheet to Use in 2023 and Beyond Exam Tricks](https://www.knowledgehut.com/blog/security/ccsp-cheat-sheet)
 
 [Practice Test - ISC.practicetest.CCSP.v2021](https://www.gratisexam.com/download/isc/ccsp/ISC.practicetest.CCSP.v2021-04-05.by.edward.307q.pdf/)
