@@ -108,6 +108,8 @@ https://medium.com/@rajesh.hyd/ccsp-exam-review-and-learning-path-certified-clou
 
 https://stanislas.io/2018/07/12/preparation-guide-for-isc2-certified-cloud-security-professional-ccsp-certification/
 
+https://jbcsec.com/passed-ccsp/
+
 
 
 
