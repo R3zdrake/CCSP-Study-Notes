@@ -112,6 +112,8 @@ https://stanislas.io/2018/07/12/preparation-guide-for-isc2-certified-cloud-secur
 
 https://jbcsec.com/passed-ccsp/
 
+https://www.linkedin.com/pulse/ccsp-dont-panic-derek-buc%E1%B8%A5%E1%B8%81%E1%B9%89%E1%B8%81%E1%B9%87-/?trk=pulse-article
+
 
 
 
