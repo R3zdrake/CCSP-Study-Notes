@@ -10,6 +10,8 @@
 
 [CIRRUS-8000-ft-of-CCSP-Course.pdf](https://github.com/amar3181/awesome-CISSP/files/7920300/CIRRUS-8000-ft-of-CCSP-Course.pdf)
 
+[CCSP Cheat Sheet to Use in 2023 and Beyond Exam Tricks](https://www.knowledgehut.com/blog/security/ccsp-cheat-sheet)
+
 ## Forum/Groups
 
 [CCSP Reddit Forum Discussion](https://www.reddit.com/r/CCSP/) 
