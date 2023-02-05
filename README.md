@@ -110,6 +110,8 @@
 
 [Think like a manager - Gwen Bettwy](https://www.youtube.com/watch?v=8LtRKKtdP3I&t=18s)
 
+[CCSP Exam Cram - Domain 1 2023 by Pete Zerge](https://www.youtube.com/watch?v=bQSUsRCv19w)
+
 
 
 
