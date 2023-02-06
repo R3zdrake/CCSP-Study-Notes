@@ -1,4 +1,4 @@
-<img src="/IMG/">
+<img src="/IMG/CCSP-logo-2lines.png">
 
 # CCSP-Study-Notes
 
