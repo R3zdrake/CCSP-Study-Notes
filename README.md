@@ -127,6 +127,10 @@ https://jbcsec.com/passed-ccsp/
 
 https://www.linkedin.com/pulse/ccsp-dont-panic-derek-buc%E1%B8%A5%E1%B8%81%E1%B9%89%E1%B8%81%E1%B9%87-/?trk=pulse-article
 
+https://www.linkedin.com/pulse/ccsp-dont-panic-derek-buc%E1%B8%A5%E1%B8%81%E1%B9%89%E1%B8%81%E1%B9%87-/?trk=pulse-article
+
+https://medium.com/@rajesh.hyd/ccsp-exam-review-and-learning-path-certified-cloud-security-professional-from-isc2-8204bbb4853b
+
 
 
 
