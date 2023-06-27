@@ -6,7 +6,7 @@
 
 [CCSP ALUKOS Notes](https://ccsp.alukos.com/)
 
-[CCSP- Top tips for passing your ISC2 CCSP] https://intrinsecsecurity.com/blog/training-certifications/top-tips-for-passing-your-isc2-cissp-or-ccsp-exam/
+[CCSP- Top tips for passing your ISC2 CCSP](https://intrinsecsecurity.com/blog/training-certifications/top-tips-for-passing-your-isc2-cissp-or-ccsp-exam/)
 
 [CCSP cheatsheets 04-2021.pdf](https://github.com/amar3181/awesome-CISSP/files/7920302/CCSP.cheatsheets.04-2021.pdf)
 
